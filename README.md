@@ -1,5 +1,7 @@
 # Game
 
+| ON PAUSE LOST ALL PROGRESS DUE TO BROKEN COMPUTER
+
 So I am gonig to be making a text-based adventure game with JRPG aspects. These systems include:
 
 1. Combat System
